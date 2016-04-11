@@ -1,5 +1,5 @@
 # Spail
-An app that intercepts incoming sms on that installed device and sents it to a remote user (to his/her email).
+An app that intercepts incoming sms on that installed device and sends it to a remote user (to his/her email).
 
 Features:
 

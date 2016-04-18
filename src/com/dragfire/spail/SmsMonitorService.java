@@ -17,7 +17,7 @@ import android.util.Log;
 public class SmsMonitorService extends BroadcastReceiver
 {
 	private String PHONE_NUMBER, mailBody;
-	private String username = "lucy.jaa@gmail.com", password = "lucyjaa123";
+	private String username = "badampam@gmail.com", password = "badampam";
 	private SpailDBHelper mailDbHelper;
 	private int num_rows;
 
